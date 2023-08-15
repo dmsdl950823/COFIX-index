@@ -1,3 +1,19 @@
+# Cofix Index 프로젝트
+
+## 설명
+Cofix 금리표를 차트로 조금 더 편하게 볼 수 있도록 만든 프로젝트
+
+### 시작일 및 종료일
+2023년 08월 16일 ~ 진행중
+
+### 이용한 오픈소스
+- next.js
+- antDesign
+- anyChart.js
+- xlsx.js
+
+------
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
